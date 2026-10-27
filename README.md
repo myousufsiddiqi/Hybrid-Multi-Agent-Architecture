@@ -9,7 +9,7 @@ An autonomous, 8-agent software engineering pipeline designed to transform uncon
 
 ## 🏗️ System Architecture & Visual Pipeline
 
-![Hybrid Multi-Agent AI System Architecture](./Gemini_Generated_Image_b48oc8b48oc8b48o.jpg)
+![Hybrid Multi-Agent AI System Architecture](./System_Architecture.jpg)
 
 *The Directed Acyclic Graph (DAG) architecture routing payloads between specialized autonomous agents, featuring an in-memory esbuild validation gate and ChromaDB episodic memory repair loops.*
 
